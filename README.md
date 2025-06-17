@@ -14,7 +14,7 @@
     <p>💼 <strong>Role</strong>: Data Analyst and Machine Learning</p>
     <p>🌌 <strong>Location</strong>: Universe: Earth, Sector: GitHub</p>
     <p>🧪 <strong>Current Nexus Events</strong>:</p>
-    <ol style="margin: 0; padding-left: 20px; line-height: 1.8;">
+    <ol style="margin: 20px; padding-left: 20px; line-height: 1.8;">
       <li>ChatCheckUp</li>
       <li>City-Pulse</li>
       <li>Schedulair</li>
