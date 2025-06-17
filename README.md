@@ -1,16 +1,11 @@
 
 <img src="./{8676C702-20EB-4480-A563-05E538937702}.png" alt="Sacred Timeline" style="width: 100%; border-radius: 10px;" />
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<h1 align="center" style="color:#d64015; font-family: sans-serif; font-weight: 900;">
+  Mridul Gupta
+</h1>
 
-  <img src="./Loki.gif" alt="Loki GIF" height="100"/>
+<p align="center" style="color:#d64015; font-size: 16px; font-weight: bold;">
+  Time Variant | Data + Dev | TVA Approved 🕰️
+</p>
 
-  <div>
-    <h1 style="color: #f78c25; font-family: sans-serif; margin: 0;">
-      Mridul Gupta
-    </h1>
-    <p style="color: #f78c25; font-weight: bold; margin: 4px 0 0;">
-      Time Variant | Data + Dev | TVA Approved 🕰️
-    </p>
-  </div>
-
-</div>
+<hr style="border: 1px solid #d64015; width: 60%;" />
