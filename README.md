@@ -24,16 +24,19 @@
   </div>
 
         
-## ✨ TVA Status Board
+<div style="text-align: center;">
+  
+<h1>✨ TVA Status Board</h1>
 
 | Skill Timeline     | Status       |
 |--------------------|--------------|
 | Machine Learning   | 📈 Evolving   |
 | Python             | ✅ Approved   |
 | SQL                | 🟢 Active     |
-| Power BI           | 🔥 Glorious  |
+| Power BI           | 🔥 Glorious   |
 | GitHub Projects    | 🧪 Expanding  |
 
+</div>
 
 
 
