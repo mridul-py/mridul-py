@@ -15,10 +15,10 @@
     <p>🌌 <strong>Location</strong>: Universe: Earth, Sector: GitHub</p>
     <p>🧪 <strong>Current Nexus Events</strong>:</p>
     <p style="margin-left: 30px;">
-     <p>1: </p>ChatCheckUp<br>
-      <p>2: </p>City-Pulse<br>
-     <p>3: </p>Schedulair<br>
-     <p>4: </p>LeetCode-Solutions
+     <p>1: ChatCheckUp</p><br>
+      <p>2: City-Pulse</p><br>
+     <p>3: Schedulair<</p>br>
+     <p>4: LeetCode-Solutions</p>
     </p>
   </div>
 
