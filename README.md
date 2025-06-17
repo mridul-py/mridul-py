@@ -3,3 +3,4 @@
 <div style="display: inline-block;">
     <h1 style="display: inline-block; margin: 0; vertical-align: middle;">Mridul Gupta – Time Variant Data Analyst</h1>
 </div>
+> “Welcome to the Time Variance Authority! We protect the Sacred Timeline — and Mridul’s code keeps it glitch-free.”
