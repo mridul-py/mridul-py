@@ -5,9 +5,7 @@
 </div>
  “Welcome to the Time Variance Authority! We protect the Sacred Timeline — and Mridul’s code keeps it glitch-free.”
  
-<div align="right">
-  <img src="./Loki.gif" width="45%" align="left" style="margin-right: 20px; border-radius: 10px;" />
-    </div>
+
   <div style="color: #f4f4f4; font-family: sans-serif; font-size: 16px;">
     <h2 style="margin: 0 0 12px 0; color: #f78c25; border-bottom: none;">🕰️ Timeline Profile</h2>
     <p>🧑‍💻 <strong>Developer Variant</strong>: Mridul</p>
@@ -21,6 +19,9 @@
       4: LeetCode-Solutions
     </div>
   </div>
+  <div align="right">
+  <img src="./Loki.gif" width="45%" align="left" style="margin-right: 20px; border-radius: 10px;" />
+    </div>
 
 
 
