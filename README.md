@@ -15,12 +15,12 @@
     <p>🌌 <strong>Location Universe</strong>: Earth, Sector: GitHub</p>
             <p style="margin: 0; font-size: 24px; font-weight: bold;">🧪 Current Nexus Events:</p>
 <div style="display: flex; align: center;">
-    <ul style="margin-left: 15px; padding-left: 24px; line-height: 1.8;">
-        <li>ChatCheckUp</li>
-        <li>City-Pulse</li>
-        <li>Schedulair</li>
-        <li>LeetCode-Solutions</li>
-    </ul>
+<p style="margin: 0;">
+    ChatCheckUp<br>
+    City-Pulse<br>
+    Schedulair<br>
+    LeetCode-Solutions
+</p>
 </div>
     </div>
   </div>
