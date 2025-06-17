@@ -17,7 +17,7 @@
     <p style="margin-left: 30px;">
      <p>1: ChatCheckUp</p><br>
       <p>2: City-Pulse</p><br>
-     <p>3: Schedulair<</p><br>
+     <p>3: Schedulair</p><br>
      <p>4: LeetCode-Solutions</p>
     </p>
   </div>
