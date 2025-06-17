@@ -4,3 +4,13 @@
     <h1 style="display: inline-block; margin: 0; vertical-align: middle;">Mridul Gupta – Time Variant Data Analyst</h1>
 </div>
  “Welcome to the Time Variance Authority! We protect the Sacred Timeline — and Mridul’s code keeps it glitch-free.”
+## 🕰️ Timeline Profile
+
+- 🧑‍💻 Developer Variant: Mridul-616
+- 💼 Role: Timeline Integrity Engineer (aka Full Stack + Data Analyst)
+<img src="./Loki.gif"  />- 🌌 Location: Universe: Earth, Sector: GitHub
+- 🧪 Current Nexus Events:
+  - `ChatCheckUp`
+  - `City-Pulse`
+  - `Schedulair`
+  - `LeetCode-Solutions`
