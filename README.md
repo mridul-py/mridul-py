@@ -7,7 +7,7 @@
  
 <div align="left">
   <img src="./Loki.gif" width="140px" align="left" style="margin-right: 20px; border-radius: 10px;" />
-
+    </div>
   <div align="right">
 
     <h2 style="color:#f78c25">🕰️ Timeline Profile</h2>
@@ -22,6 +22,6 @@
     ▪️ LeetCode-Solutions <br>
 
   </div>
-</div>
+
 
 
