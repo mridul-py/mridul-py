@@ -13,8 +13,8 @@
     <p>🧑‍💻 <strong>Developer Variant</strong>: Mridul</p>
     <p>💼 <strong>Role</strong>: Data Analyst and Machine Learning</p>
     <p>🌌 <strong>Location Universe</strong>: Earth, Sector: GitHub</p>
+            <p style="margin: 0; font-size: 24px; font-weight: bold;">🧪 Current Nexus Events:</p>
 <div style="display: flex; align-items: center;">
-    <p style="margin: 0; font-size: 24px; font-weight: bold;">🧪 Current Nexus Events:</p>
     <ul style="margin-left: 15px; padding-left: 24px; line-height: 1.8;">
         <li>ChatCheckUp</li>
         <li>City-Pulse</li>
