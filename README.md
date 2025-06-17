@@ -9,14 +9,14 @@
 
 ## 🕰️ Timeline Profile
 
-- 🧑‍💻 **Developer Variant**: Mridul-616  
-- 💼 **Role**: Timeline Integrity Engineer (aka Full Stack + Data Analyst)  
-- 🌌 **Location**: Universe: Earth, Sector: GitHub  
-- 🧪 **Current Nexus Events**:  
-  - ChatCheckUp  
-  - City-Pulse  
-  - Schedulair  
-  - LeetCode-Solutions  
+ 🧑‍💻 **Developer Variant**: Mridul-616  
+ 💼 **Role**: Timeline Integrity Engineer (aka Full Stack + Data Analyst)  
+🌌 **Location**: Universe: Earth, Sector: GitHub  
+ 🧪 **Current Nexus Events**:  
+   ChatCheckUp  
+   City-Pulse  
+   Schedulair  
+   LeetCode-Solutions  
 
 </div>
 
