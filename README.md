@@ -12,13 +12,13 @@
     <summary><h1>🧑‍💻 <strong>🕰️ Timeline Profile</h1></summary>
     <p>🧑‍💻 <strong>Developer Variant</strong>: Mridul</p>
     <p>💼 <strong>Role</strong>: Data Analyst and Machine Learning</p>
-    <p>🌌 <strong>Location</strong>: Universe: Earth, Sector: GitHub</p>
+    <p>🌌 <strong>Location Universe</strong>: Earth, Sector: GitHub</p>
     <p>🧪 <strong>Current Nexus Events</strong>:</p>
       <ul style="margin: 0; padding-left: 24px; line-height: 1.8;">
-        <li>ChatCheckUp</li>
-        <li>City-Pulse</li>
-        <li>Schedulair</li>
-        <li>LeetCode-Solutions</li>
+           <li>    ChatCheckUp</li>
+           <li>    City-Pulse</li>
+           <li>    Schedulair</li>
+          <li>     LeetCode-Solutions</li>
       </ul>
     </div>
   </div>
