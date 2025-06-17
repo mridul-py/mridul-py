@@ -22,7 +22,15 @@
 </div>
     </div>
   </div>
+## ✨ TVA Status Board
 
+| Skill Timeline     | Status       |
+|--------------------|--------------|
+| Machine Learning   | 📈 Evolving   |
+| Python             | ✅ Approved   |
+| SQL                | 🟢 Active     |
+| Power BI           | 🔥 Glorious  |
+| GitHub Projects    | 🧪 Expanding  |
 
 
 
