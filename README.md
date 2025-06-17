@@ -24,7 +24,7 @@
   </div>
 
         
-<div style="text-align: center;">
+<div style="text-align: left;">
   
 <h1>✨ TVA Status Board</h1>
 
