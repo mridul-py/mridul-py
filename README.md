@@ -14,11 +14,12 @@
     <p>💼 <strong>Role</strong>: Data Analyst and Machine Learning</p>
     <p>🌌 <strong>Location</strong>: Universe: Earth, Sector: GitHub</p>
     <p>🧪 <strong>Current Nexus Events</strong>:</p>
-    <div style="margin-left: 15px;">
-      1: ChatCheckUp<br>
-      2: City-Pulse<br>
-      3: Schedulair<br>
-      4: LeetCode-Solutions
+    <ol style="margin: 0; padding-left: 20px; line-height: 1.8;">
+      <li>ChatCheckUp</li>
+      <li>City-Pulse</li>
+      <li>Schedulair</li>
+      <li>LeetCode-Solutions</li>
+    </ol>
     </div>
   </div>
 
