@@ -14,11 +14,11 @@
     <p>💼 <strong>Role</strong>: Timeline Integrity Engineer (aka Full Stack + Data Analyst)</p>
     <p>🌌 <strong>Location</strong>: Universe: Earth, Sector: GitHub</p>
     <p>🧪 <strong>Current Nexus Events</strong>:</p>
-    <p style="margin-left: 20px;">
-      ChatCheckUp<br>
-      City-Pulse<br>
-      Schedulair<br>
-      LeetCode-Solutions
+    <p style="margin-left: 30px;">
+     <p>1: </p>ChatCheckUp<br>
+      <p>2: </p>City-Pulse<br>
+     <p>3: </p>Schedulair<br>
+     <p>4: </p>LeetCode-Solutions
     </p>
   </div>
 
