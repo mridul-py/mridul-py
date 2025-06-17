@@ -15,7 +15,6 @@
     <p>🌌 <strong>Location Universe</strong>: Earth, Sector: GitHub</p>
             <p style="margin: 0; font-size: 24px; font-weight: bold;">🧪 Current Nexus Events:</p>
 <div style="display: flex; align: center;">
-<li style="margin: 0;align: center;">
 <li style="margin: 0;align: center;">    ChatCheckUp<br></li>
 <li style="margin: 0;align: center;">     City-Pulse<br></li>
  <li style="margin: 0;align: center;">    Schedulair<br></li>
