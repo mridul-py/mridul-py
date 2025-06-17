@@ -5,12 +5,12 @@
 </div>
  “Welcome to the Time Variance Authority! We protect the Sacred Timeline — and Mridul’s code keeps it glitch-free.”
  
-<img src="./Loki.gif" style="width: 50%; border-radius: 10px;" ><div align="right">
+<div align="right">
 
 ## 🕰️ Timeline Profile
 
  🧑‍💻 **Developer Variant**: Mridul-616  
- 💼 **Role**: Timeline Integrity Engineer (aka Full Stack + Data Analyst)  
+<img src="./Loki.gif" style="width: 50%; border-radius: 10px;" > 💼 **Role**: Timeline Integrity Engineer (aka Full Stack + Data Analyst)  
 🌌 **Location**: Universe: Earth, Sector: GitHub  
  🧪 **Current Nexus Events**:  
    ChatCheckUp  
