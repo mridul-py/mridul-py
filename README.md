@@ -6,7 +6,7 @@
  “Welcome to the Time Variance Authority! We protect the Sacred Timeline — and Mridul’s code keeps it glitch-free.”
  
 <div align="left">
-  <img src="./Loki.gif" width="140px" align="left" style="margin-right: 20px; border-radius: 10px;" />
+  <img src="./Loki.gif" width="50%" align="left" style="margin-right: 20px; border-radius: 10px;" />
     </div>
  <div align="right">
 
