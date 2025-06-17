@@ -1,1 +1,1 @@
-![Miss Minutes](./Loki-Tva-Sticker.gif)
+![Miss Minutes](./LokiTvaStickerbyMarvelStudios(1).gif)
