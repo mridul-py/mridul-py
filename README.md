@@ -16,11 +16,10 @@
             <p style="margin: 0; font-size: 24px; font-weight: bold;">🧪 Current Nexus Events:</p>
 <div style="display: flex; align: center;">
 <li style="margin: 0;align: center;">
-    ChatCheckUp<br>
-    City-Pulse<br>
-    Schedulair<br>
-    LeetCode-Solutions
-</li>
+<li style="margin: 0;align: center;">    ChatCheckUp<br></li>
+<li style="margin: 0;align: center;">     City-Pulse<br></li>
+ <li style="margin: 0;align: center;">    Schedulair<br></li>
+<li style="margin: 0;align: center;">     LeetCode-Solutions</li>
 </div>
     </div>
   </div>
