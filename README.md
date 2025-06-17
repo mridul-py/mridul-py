@@ -8,7 +8,7 @@
 <div align="left">
   <img src="./Loki.gif" width="45%" align="left" style="margin-right: 20px; border-radius: 10px;" />
     </div>
- <div align="right">
+ <div align="left">
 
   <h2 style="color:#f78c25">🕰️ Timeline Profile</h2>
 
