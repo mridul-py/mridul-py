@@ -9,7 +9,7 @@
   <img src="./Loki.gif" width="45%" align="left" style="margin-right: 20px; border-radius: 10px;" />
     </div>
   <div style="color: #f4f4f4; font-family: sans-serif; font-size: 16px;">
-    <p style ="font-size: 32px;">🧑‍💻 <strong>🕰️ Timeline Profile</strong></p>
+    <h1>🧑‍💻 <strong>🕰️ Timeline Profile</h1?
     <p>🧑‍💻 <strong>Developer Variant</strong>: Mridul</p>
     <p>💼 <strong>Role</strong>: Data Analyst and Machine Learning</p>
     <p>🌌 <strong>Location</strong>: Universe: Earth, Sector: GitHub</p>
