@@ -8,22 +8,19 @@
 <div align="left">
   <img src="./Loki.gif" width="45%" align="left" style="margin-right: 20px; border-radius: 10px;" />
     </div>
- <div align="left">
-
-  <h2 style="color:#f78c25">🕰️ Timeline Profile</h2>
-
-  <p>🧑‍💻 <strong>Developer Variant</strong>: Mridul-616</p>
-  <p>💼 <strong>Role</strong>: Timeline Integrity Engineer (aka Full Stack + Data Analyst)</p>
-  <p>🌌 <strong>Location</strong>: Universe: Earth, Sector: GitHub</p>
-  <p>🧪 <strong>Current Nexus Events</strong>:</p>
-  <ul>
-    <li>ChatCheckUp</li>
-    <li>City-Pulse</li>
-    <li>Schedulair</li>
-    <li>LeetCode-Solutions</li>
-  </ul>
-
-</div>
+  <div style="color: #f4f4f4; font-family: sans-serif;">
+    <h2 style="margin: 0 0 10px 0; color: #f78c25;">🕰️ Timeline Profile</h2>
+    <p>🧑‍💻 <strong>Developer Variant</strong>: Mridul-616</p>
+    <p>💼 <strong>Role</strong>: Timeline Integrity Engineer (aka Full Stack + Data Analyst)</p>
+    <p>🌌 <strong>Location</strong>: Universe: Earth, Sector: GitHub</p>
+    <p>🧪 <strong>Current Nexus Events</strong>:</p>
+    <p style="margin-left: 20px;">
+      ChatCheckUp<br>
+      City-Pulse<br>
+      Schedulair<br>
+      LeetCode-Solutions
+    </p>
+  </div>
 
 
 
