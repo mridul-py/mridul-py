@@ -27,8 +27,8 @@
 <br>
 <br>
 <br>
-<div style="align: left;">
-  
+
+<img align="right" src="./marvel-miss-minutes-doodle.gif" alt="image" />
 <h1>✨ TVA Status Board</h1>
 
 | Skill Timeline     | Status       |
@@ -38,7 +38,4 @@
 | SQL                | 🟢 Active     |
 | Power BI           | 🔥 Glorious   |
 | GitHub Projects    | 🧪 Expanding  | 
-<p align="center"><img   src="./marvel-miss-minutes-doodle.gif" style="width: 200px; height: auto;"></p>
-</div>
-
 
