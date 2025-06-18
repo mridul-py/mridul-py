@@ -27,17 +27,41 @@
 <br>
 <br>
 <br>
-<div style="display: flex; align-items: flex-start; justify-content: flex-start;">
+<div style="display: flex; align-items: flex-start;">
   <div style="margin-right: 20px;">
     <h1>✨ TVA Status Board</h1>
-    | Skill Timeline     | Status       |
-    |--------------------|--------------|
-    | Machine Learning   | 📈 Evolving   |
-    | Python             | ✅ Approved   |
-    | SQL                | 🟢 Active     |
-    | Power BI           | 🔥 Glorious   |
-    | GitHub Projects    | 🧪 Expanding  |
+    <table>
+      <thead>
+        <tr>
+          <th>Skill Timeline</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Machine Learning</td>
+          <td>📈 Evolving</td>
+        </tr>
+        <tr>
+          <td>Python</td>
+          <td>✅ Approved</td>
+        </tr>
+        <tr>
+          <td>SQL</td>
+          <td>🟢 Active</td>
+        </tr>
+        <tr>
+          <td>Power BI</td>
+          <td>🔥 Glorious</td>
+        </tr>
+        <tr>
+          <td>GitHub Projects</td>
+          <td>🧪 Expanding</td>
+        </tr>
+      </tbody>
+    </table>
   </div>
+
   <div>
     <img src="marvel-miss-minutes-doodle.gif" alt="Miss Minutes GIF" width="200"/>
   </div>
