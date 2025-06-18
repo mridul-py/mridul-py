@@ -27,42 +27,61 @@
 <br>
 <br>
 <br>
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div>
-    <h1>✨ TVA Status Board</h1>
-    <table style="border-collapse: collapse; width: 100%;">
-      <thead>
-        <tr>
-          <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Skill Timeline</th>
-          <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Status</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="border: 1px solid #ddd; padding: 8px;">Machine Learning</td>
-          <td style="border: 1px solid #ddd; padding: 8px;">📈 Evolving</td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #ddd; padding: 8px;">Python</td>
-          <td style="border: 1px solid #ddd; padding: 8px;">✅ Approved</td> <img src="marvel-miss-minutes-doodle.gif" alt="Miss Minutes GIF" width="200" style="display: block;">
-        </tr>
-        <tr>
-          <td style="border: 1px solid #ddd; padding: 8px;">SQL</td>
-          <td style="border: 1px solid #ddd; padding: 8px;">🟢 Active</td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #ddd; padding: 8px;">Power BI</td>
-          <td style="border: 1px solid #ddd; padding: 8px;">🔥 Glorious</td>
-        </tr>
-        <tr>
-          <td style="border: 1px solid #ddd; padding: 8px;">GitHub Projects</td>
-          <td style="border: 1px solid #ddd; padding: 8px;">🧪 Expanding</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
-  <div style="flex-shrink: 0;">
-   
-  </div>
-</div>
+<table style="
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 0 !important; /* Extremely aggressive border removal */
+    outline: none !important; /* Also try outline */
+">
+  <tr>
+    <td style="
+        vertical-align: top;
+        padding-right: 20px;
+        border: none !important; /* Aggressive cell border removal */
+        outline: none !important;
+        background-color: transparent !important; /* Ensure no background issues */
+    ">
+      <h1>✨ TVA Status Board</h1>
+      <table style="border-collapse: collapse; width: 100%;">
+        <thead>
+          <tr>
+            <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Skill Timeline</th>
+            <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">Machine Learning</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">📈 Evolving</td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">Python</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">✅ Approved</td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">SQL</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">🟢 Active</td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">Power BI</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">🔥 Glorious</td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">GitHub Projects</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">🧪 Expanding</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td style="
+        vertical-align: top;
+        text-align: center;
+        border: none !important; /* Aggressive cell border removal */
+        outline: none !important;
+        background-color: transparent !important;
+    ">
+      <img src="marvel-miss-minutes-doodle.gif" alt="Miss Minutes GIF" width="200" style="max-width: 100%; height: auto; display: block; margin: 0 auto;"/>
+    </td>
+  </tr>
+</table>
