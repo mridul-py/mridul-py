@@ -31,7 +31,13 @@
  
 <img align="right" src="./marvel-miss-minutes-doodle.gif" alt="image"  style="width: 200px; height: auto;">
 
-# ✨ TVA Status Board
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> ✨ TVA Status Board </h1>
+    </summary>
+  </ul>
+</div>
 
 | Skill Timeline     | Status       |
 |--------------------|--------------|
