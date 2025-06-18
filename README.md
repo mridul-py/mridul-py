@@ -44,7 +44,7 @@
         </tr>
         <tr>
           <td style="border: 1px solid #ddd; padding: 8px;">Python</td>
-          <td style="border: 1px solid #ddd; padding: 8px;">✅ Approved</td>
+          <td style="border: 1px solid #ddd; padding: 8px;">✅ Approved</td> <img src="marvel-miss-minutes-doodle.gif" alt="Miss Minutes GIF" width="200" style="display: block;">
         </tr>
         <tr>
           <td style="border: 1px solid #ddd; padding: 8px;">SQL</td>
@@ -63,6 +63,6 @@
   </div>
 
   <div style="flex-shrink: 0;">
-    <img src="marvel-miss-minutes-doodle.gif" alt="Miss Minutes GIF" width="200" style="display: block;">
+   
   </div>
 </div>
