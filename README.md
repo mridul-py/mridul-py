@@ -51,7 +51,7 @@
 
   <!-- Right Side: GIF -->
   <div>
-    <img src="./marvel-miss-minutes-doodle.gif" alt="TVA Animation" style="max-width: 250px; border-radius: 8px;">
+    <img src="./marvel-miss-minutes-doodle.gif" width="30%" alt="TVA Animation" style="max-width: 250px; border-radius: 8px;">
   </div>
 
 </div>
