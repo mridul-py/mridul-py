@@ -28,8 +28,7 @@
 <br>
 <br>
 <div style="float: right;">
-  <img src="./marvel-miss-minutes-doodle.gif" alt="GIF">
+  <img src="./marvel-miss-minutes-doodle.gif" alt="GIF" style="width: 200px; height: auto;">
 </div>
-
 
 
