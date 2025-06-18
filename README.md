@@ -29,7 +29,7 @@
 <br>
 <br>
  
-<img align="center" src="./marvel-miss-minutes-doodle.gif" alt="image"  style="width: 200px; height: auto;">
+<p align="center"><img  src="./marvel-miss-minutes-doodle.gif" alt="image"  style="width: 200px; height: auto;"></p>
 
 <div id="toc">
   <ul style="list-style: none">
