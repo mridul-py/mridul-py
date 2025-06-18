@@ -27,42 +27,42 @@
 <br>
 <br>
 <br>
-<table style="width: 100%; border-collapse: collapse; border-spacing: 0;">
-  <tr>
-    <td style="width: 60%; vertical-align: top; padding-right: 20px; border: none;">
-      <h1>✨ TVA Status Board</h1>
-      <table>
-        <thead>
-          <tr>
-            <th>Skill Timeline</th>
-            <th>Status</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Machine Learning</td>
-            <td>📈 Evolving</td>
-          </tr>
-          <tr>
-            <td>Python</td>
-            <td>✅ Approved</td>
-          </tr>
-          <td>SQL</td>
-          <td>🟢 Active</td>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div>
+    <h1>✨ TVA Status Board</h1>
+    <table style="border-collapse: collapse; width: 100%;">
+      <thead>
+        <tr>
+          <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Skill Timeline</th>
+          <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="border: 1px solid #ddd; padding: 8px;">Machine Learning</td>
+          <td style="border: 1px solid #ddd; padding: 8px;">📈 Evolving</td>
         </tr>
         <tr>
-          <td>Power BI</td>
-          <td>🔥 Glorious</td>
+          <td style="border: 1px solid #ddd; padding: 8px;">Python</td>
+          <td style="border: 1px solid #ddd; padding: 8px;">✅ Approved</td>
         </tr>
         <tr>
-          <td>GitHub Projects</td>
-          <td>🧪 Expanding</td>
+          <td style="border: 1px solid #ddd; padding: 8px;">SQL</td>
+          <td style="border: 1px solid #ddd; padding: 8px;">🟢 Active</td>
         </tr>
-        </tbody>
-      </table>
-    </td>
-    <td style="width: 40%; vertical-align: top; text-align: center; border: none;">
-      <img src="./marvel-miss-minutes-doodle.gif" alt="GIF" style="width: 200px; height: auto;">
-    </td>
-  </tr>
-</table>
+        <tr>
+          <td style="border: 1px solid #ddd; padding: 8px;">Power BI</td>
+          <td style="border: 1px solid #ddd; padding: 8px;">🔥 Glorious</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid #ddd; padding: 8px;">GitHub Projects</td>
+          <td style="border: 1px solid #ddd; padding: 8px;">🧪 Expanding</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div style="flex-shrink: 0;">
+    <img src="marvel-miss-minutes-doodle.gif" alt="Miss Minutes GIF" width="200" style="display: block;">
+  </div>
+</div>
