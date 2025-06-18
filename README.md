@@ -63,7 +63,7 @@
       </table>
     </td>
     <td style="width: 40%; vertical-align: top; text-align: center;">
-      <img src="marvel-miss-minutes-doodle.gif" alt="Miss Minutes GIF" style="max-width: 100%; height: auto;"/>
+      <img src="./marvel-miss-minutes-doodle.gif" alt="GIF" style="width: 200px; height: auto;">
     </td>
   </tr>
 </table>
