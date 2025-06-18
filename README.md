@@ -46,3 +46,19 @@
 | SQL                | 🟢 Active     |
 | Power BI           | 🔥 Glorious   |
 | GitHub Projects    | 🧪 Expanding  |
+<br>
+## 📂 TVA-Approved Projects
+
+> “These repositories have been cleared by the Time Keepers. No Nexus events detected… *for now.*”
+
+### 🩺 **ChatCheckUp**
+> *A diagnostic scanner for WhatsApp group health. Analyzes sentiment, spam, and toxicity.*
+
+### 🌆 **City-Pulse**
+> *Real-time urban sensing and multiverse visualization. Because cities have hearts too.*
+
+### ⏱️ **Schedulair**
+> *Meetings outside the sacred timeline? Not on my watch. Built to prune calendar chaos.*
+
+### 🧩 **LeetCode-Solutions**
+> *A combat log from the Java sector – pattern recognition, recursion magic, and algorithmic warfare.*
