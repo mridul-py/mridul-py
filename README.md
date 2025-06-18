@@ -27,9 +27,9 @@
 <br>
 <br>
 <br>
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; border-spacing: 0;">
   <tr>
-    <td style="width: 60%; vertical-align: top; padding-right: 20px;">
+    <td style="width: 60%; vertical-align: top; padding-right: 20px; border: none;">
       <h1>✨ TVA Status Board</h1>
       <table>
         <thead>
@@ -47,22 +47,21 @@
             <td>Python</td>
             <td>✅ Approved</td>
           </tr>
-          <tr>
-            <td>SQL</td>
-            <td>🟢 Active</td>
-          </tr>
-          <tr>
-            <td>Power BI</td>
-            <td>🔥 Glorious</td>
-          </tr>
-          <tr>
-            <td>GitHub Projects</td>
-            <td>🧪 Expanding</td>
-          </tr>
+          <td>SQL</td>
+          <td>🟢 Active</td>
+        </tr>
+        <tr>
+          <td>Power BI</td>
+          <td>🔥 Glorious</td>
+        </tr>
+        <tr>
+          <td>GitHub Projects</td>
+          <td>🧪 Expanding</td>
+        </tr>
         </tbody>
       </table>
     </td>
-    <td style="width: 40%; vertical-align: top; text-align: center;">
+    <td style="width: 40%; vertical-align: top; text-align: center; border: none;">
       <img src="./marvel-miss-minutes-doodle.gif" alt="GIF" style="width: 200px; height: auto;">
     </td>
   </tr>
