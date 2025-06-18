@@ -27,4 +27,6 @@
 <br>
 <br>
 <br>
-<img align="right"  src="./marvel-miss-minutes-doodle.gif" style="width: 200px; height: auto;">
+<p align="center">
+<img   src="./marvel-miss-minutes-doodle.gif" style="width: 200px; height: auto;">
+</p>
