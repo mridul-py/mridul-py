@@ -27,34 +27,18 @@
 <br>
 <br>
 <br>
-<div style="display: flex; align-items: flex-start;">
+<div style="float: left; padding: 15px; background: red;">
+   <h1>✨ TVA Status Board</h1>
 
-  <!-- Left Side: Status Board -->
-  <div style="margin-right: 40px;">
-    <h1>✨ TVA Status Board</h1>
-    <table>
-      <thead>
-        <tr>
-          <th>Skill Timeline</th>
-          <th>Status</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr><td>Machine Learning</td><td>📈 Evolving</td></tr>
-        <tr><td>Python</td><td>✅ Approved</td></tr>
-        <tr><td>SQL</td><td>🟢 Active</td></tr>
-        <tr><td>Power BI</td><td>🔥 Glorious</td></tr>
-        <tr><td>GitHub Projects</td><td>🧪 Expanding</td></tr>
-      </tbody>
-    </table>
-  </div>
-
-  <!-- Right Side: GIF -->
-  <div>
-    <img src="./marvel-miss-minutes-doodle.gif" width="30%" alt="TVA Animation" style="max-width: 250px; border-radius: 8px;">
-  </div>
-
+| Skill Timeline     | Status       |
+|--------------------|--------------|
+| Machine Learning   | 📈 Evolving   |
+| Python             | ✅ Approved   |
+| SQL                | 🟢 Active     |
+| Power BI           | 🔥 Glorious   |
+| GitHub Projects    | 🧪 Expanding  |
 </div>
+<div style="float: left; padding: 15px; background: yellow;"><img src="./marvel-miss-minutes-doodle.gif" alt="TVA Animation" style="max-width: 250px; border-radius: 8px;"></div>
 
 
 
