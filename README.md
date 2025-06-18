@@ -27,17 +27,19 @@
 <br>
 <br>
 <br>
-<div style="align: left;">
-  
-<h1>✨ TVA Status Board</h1>
-
-| Skill Timeline     | Status       |
-|--------------------|--------------|
-| Machine Learning   | 📈 Evolving   |
-| Python             | ✅ Approved   |
-| SQL                | 🟢 Active     |
-| Power BI           | 🔥 Glorious   |
-| GitHub Projects    | 🧪 Expanding  |
-
-</div> 
+<div style="display: flex; align-items: flex-start; justify-content: flex-start;">
+  <div style="margin-right: 20px;">
+    <h1>✨ TVA Status Board</h1>
+    | Skill Timeline     | Status       |
+    |--------------------|--------------|
+    | Machine Learning   | 📈 Evolving   |
+    | Python             | ✅ Approved   |
+    | SQL                | 🟢 Active     |
+    | Power BI           | 🔥 Glorious   |
+    | GitHub Projects    | 🧪 Expanding  |
+  </div>
+  <div>
+    <img src="marvel-miss-minutes-doodle.gif" alt="Miss Minutes GIF" width="200"/>
+  </div>
+</div>
 
