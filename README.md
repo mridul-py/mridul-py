@@ -28,6 +28,6 @@
 <br>
 <br>
 <p>
-    <img src="./{A3D3C701-4460-4C1B-B557-0359C0371186}.png >
+    <img src="./{A3D3C701-4460-4C1B-B557-0359C0371186}.png" >
     <img src="./marvel-miss-minutes-doodle.gif" style="width: 200px; height: auto;">
 </p>
