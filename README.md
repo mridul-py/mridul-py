@@ -25,10 +25,9 @@
  <br>
        <br>
         <br>
-        <br>
 <img align="right" src="./marvel-miss-minutes-doodle.gif" alt="image"  style="width: 200px; height: auto;">
 
-<div id="toc">
+<div id="toc" align ="left">
   <ul style="list-style: none">
     <summary>
       <h1> ✨ TVA Status Board </h1>
