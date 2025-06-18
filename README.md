@@ -27,50 +27,9 @@
 <br>
 <br>
 <br>
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 40px;">
-
-  <!-- Status Table -->
-  <div>
-    <h1>✨ TVA Status Board</h1>
-    <table style="border-collapse: collapse; color: white;">
-      <thead>
-        <tr style="background-color: #222;">
-          <th style="padding: 8px; border: 1px solid #444;">Skill Timeline</th>
-          <th style="padding: 8px; border: 1px solid #444;">Status</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="padding: 8px; border: 1px solid #444;">Machine Learning</td>
-          <td style="padding: 8px; border: 1px solid #444;">📈 Evolving</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px; border: 1px solid #444;">Python</td>
-          <td style="padding: 8px; border: 1px solid #444;">✅ Approved</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px; border: 1px solid #444;">SQL</td>
-          <td style="padding: 8px; border: 1px solid #444;">🟢 Active</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px; border: 1px solid #444;">Power BI</td>
-          <td style="padding: 8px; border: 1px solid #444;">🔥 Glorious</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px; border: 1px solid #444;">GitHub Projects</td>
-          <td style="padding: 8px; border: 1px solid #444;">🧪 Expanding</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
-  <!-- Image of Miss Minutes -->
-  <div>
-    <img src="./marvel-miss-minutes-doodle.gif" alt="Miss Minutes" style="max-height: 250px;">
-  </div>
-
+<div style="float: right;">
+  <img src="./marvel-miss-minutes-doodle.gif" alt="GIF">
 </div>
-
 
 
 
