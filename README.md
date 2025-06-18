@@ -9,8 +9,8 @@
   <div align="right">
   <img src="./Loki.gif" width="40%" align="left" style="margin-right: 20px; border-radius: 10px;" />
     </div>
-  <div style="color: #f4f4f4; font-family: sans-serif; font-size: 16px;" id="toc">
-    <summary><h1>🧑‍💻 <strong>🕰️ Timeline Profile</h1></summary>
+  <div style="color: #f4f4f4; font-family: sans-serif; font-size: 16px;">
+  <div id="toc">  <ul style="list-style: none"><summary><h1>🧑‍💻 <strong>🕰️ Timeline Profile</h1></summary></summary></ul></div>
     <p>🧑‍💻 <strong>Developer Variant</strong>: Mridul</p>
     <p>💼 <strong>Role</strong>: Data Analyst and Machine Learning</p>
     <p>🌌 <strong>Location Universe</strong>: Earth, Sector: GitHub</p>
