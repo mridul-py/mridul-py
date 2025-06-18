@@ -31,12 +31,8 @@
 <div style="float: left; padding: 15px; background: red;">
    <h1>✨ TVA Status Board</h1>
  
-| Skill Timeline     | Status       |
-|--------------------|--------------|
-| Machine Learning   | 📈 Evolving   |
-| Python             | ✅ Approved   |                          
-| SQL                | 🟢 Active     |  <img src="./marvel-miss-minutes-doodle.gif" alt="GIF" style="width: 200px;">         
-| Power BI           | 🔥 Glorious   |
-| GitHub Projects    | 🧪 Expanding  |
+| Table | GIF |
+|-------|-----|
+| Skill Timeline \| Status \|<br> \|--------------\|--------\|<br> \| Machine Learning \| Evolving \|<br> \| Python \| Approved \|<br> \| SQL \| Active \|<br> \| Power BI \| Glorious \|<br> \| GitHub Projects \| Expanding \| | ![GIF](https://media.giphy.com/media/your-gif-id.gif) |
 </div>
 
