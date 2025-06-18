@@ -27,15 +27,15 @@
 <br>
 <br>
 <br>
-<div style="align: left;"><h1>✨ TVA Status Board</h1>
+<div style="align: left;">
+    <h1>✨ TVA Status Board</h1>
 | Skill Timeline | Status | 
 | Machine Learning | 📈 Evolving | 
 | Python | ✅ Approved | 
 | SQL | 🟢 Active | 
 | Power BI | 🔥 Glorious | 
 | GitHub Projects | 🧪 Expanding | 
-
-
-</div>
 <p align="center"><img   src="./marvel-miss-minutes-doodle.gif" style="width: 200px; height: auto;"></p>
+</div>
+
 
