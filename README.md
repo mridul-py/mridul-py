@@ -38,4 +38,6 @@
 | Power BI           | 🔥 Glorious   |
 | GitHub Projects    | 🧪 Expanding  |
 </div>
- <img src="./marvel-miss-minutes-doodle.gif" alt="GIF" style="width: 200px; height:auto;">  
+<div style="text-align: center;">
+  <img src="./marvel-miss-minutes-doodle.gif" alt="GIF" style="width: 200px; height: auto;">
+</div>
