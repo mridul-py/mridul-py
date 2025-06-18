@@ -48,7 +48,7 @@
 | GitHub Projects    | 🧪 Expanding  |
 <br>
 
-<img align="right" src="./image.png" alt="image"  style="width: 200px; height: auto;">
+
 
 ## 📂 TVA-Approved Projects
 
@@ -56,6 +56,9 @@
 
 ### 🩺 **ChatCheckUp**
 > *A diagnostic scanner for WhatsApp group health. Analyzes sentiment, spam, and toxicity.*
+
+<img align="right" src="./image.png" alt="image"  style="width: 200px; height: auto;">
+
 
 ### 🌆 **City-Pulse**
 > *Real-time urban sensing and multiverse visualization. Because cities have hearts too.*
