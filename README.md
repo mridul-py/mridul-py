@@ -27,7 +27,6 @@
 <br>
 <br>
 <br>
-<div style="display: flex; align-items: center; gap: 20px;">
   <div>
     <h1>✨ TVA Status Board</h1>
     <table>
@@ -42,8 +41,3 @@
       <tr><td>GitHub Projects</td><td>🧪 Expanding</td></tr>
     </table>
   </div>
-
-  <div>
-    <img src="./marvel-miss-minutes-doodle.gif" style="width: 200px; height: auto;">
-  </div>
-</div>
