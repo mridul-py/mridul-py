@@ -34,6 +34,9 @@
       <tr><th>Skill Timeline</th><th>Status</th></tr>
       <tr><td>Machine Learning</td><td>📈 Evolving</td></tr>
       <tr><td>Python</td><td>✅ Approved</td></tr>
+        <p align="center">
+<img   src="./marvel-miss-minutes-doodle.gif" style="width: 200px; height: auto;">
+</p>
       <tr><td>SQL</td><td>🟢 Active</td></tr>
       <tr><td>Power BI</td><td>🔥 Glorious</td></tr>
       <tr><td>GitHub Projects</td><td>🧪 Expanding</td></tr>
