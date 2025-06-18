@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./{8676C702-20EB-4480-A563-05E538937702}.png" alt="Sacred Timeline" />
 </p>
-<div style="display: inline-block;">
+<div style="display: inline-block;" id="toc">
     <h1 style="display: inline-block; margin: 0; vertical-align: middle;"> ⚡ Mridul Gupta – Engineering Insight from Chaos </h1>
 </div>
  “Welcome to the Time Variance Authority! We protect the Sacred Timeline — and Mridul’s code keeps it glitch-free.”
