@@ -35,7 +35,7 @@
 |--------------------|--------------|
 | Machine Learning   | 📈 Evolving   |
 | Python             | ✅ Approved   |                          
-| SQL                | 🟢 Active     |    ![GIF](./marvel-miss-minutes-doodle.gif)             
+| SQL                | 🟢 Active     |  <img src="./marvel-miss-minutes-doodle.gif" alt="GIF" style="width: 200px;">         
 | Power BI           | 🔥 Glorious   |
 | GitHub Projects    | 🧪 Expanding  |
 </div>
