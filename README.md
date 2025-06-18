@@ -47,6 +47,7 @@
 | Power BI           | 🔥 Glorious   |
 | GitHub Projects    | 🧪 Expanding  |
 <br>
+
 ## 📂 TVA-Approved Projects
 
 > “These repositories have been cleared by the Time Keepers. No Nexus events detected… *for now.*”
