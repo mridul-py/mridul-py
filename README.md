@@ -33,9 +33,9 @@
 | Skill Timeline     | Status       |
 |--------------------|--------------|
 | Machine Learning   | 📈 Evolving   |
-| Python             | ✅ Approved   |                       <img src="./marvel-miss-minutes-doodle.gif" alt="GIF" style="width: 200px; height:auto;">      
+| Python             | ✅ Approved   |                          
 | SQL                | 🟢 Active     |               
 | Power BI           | 🔥 Glorious   |
 | GitHub Projects    | 🧪 Expanding  |
 </div>
-
+ <img src="./marvel-miss-minutes-doodle.gif" alt="GIF" style="width: 200px; height:auto;">  
