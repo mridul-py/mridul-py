@@ -1,5 +1,5 @@
 
-<img src="./{B16A18A2-82B6-4754-AE41-29BE6A0558BA}.png" alt="Sacred Timeline" style="width: 100%; border-radius: 10px;" />
+<img src="./WhatsApp Video 2025-06-18 at 12.21.30_631b0538.gif" alt="Sacred Timeline" style="width: 100%; border-radius: 10px;" />
 <div style="display: inline-block;">
     <h1 style="display: inline-block; margin: 0; vertical-align: middle;"> ⚡ Mridul Gupta – Engineering Insight from Chaos </h1>
 </div>
