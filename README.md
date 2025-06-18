@@ -27,8 +27,8 @@
 <br>
 <br>
 <br>
-<div style="display: flex; align-items: flex-start;">
-  <div style="margin-right: 20px;">
+<div style="overflow: auto;">
+  <div style="float: left; margin-right: 20px;">
     <h1>✨ TVA Status Board</h1>
     <table>
       <thead>
@@ -61,9 +61,7 @@
       </tbody>
     </table>
   </div>
-
-  <div>
-    <img src="marvel-miss-minutes-doodle.gif" alt="Miss Minutes GIF" width="200"/>
+  <div style="float: left;">
+    <img src="marvel-miss-minutes-doodle.gif" alt="Miss Minutes GIF" width="200" style="display: block;"/>
   </div>
 </div>
-
