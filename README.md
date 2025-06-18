@@ -27,41 +27,43 @@
 <br>
 <br>
 <br>
-<div style="overflow: auto;">
-  <div style="float: left; margin-right: 20px;">
-    <h1>✨ TVA Status Board</h1>
-    <table>
-      <thead>
-        <tr>
-          <th>Skill Timeline</th>
-          <th>Status</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Machine Learning</td>
-          <td>📈 Evolving</td>
-        </tr>
-        <tr>
-          <td>Python</td>
-          <td>✅ Approved</td>
-        </tr>
-        <tr>
-          <td>SQL</td>
-          <td>🟢 Active</td>
-        </tr>
-        <tr>
-          <td>Power BI</td>
-          <td>🔥 Glorious</td>
-        </tr>
-        <tr>
-          <td>GitHub Projects</td>
-          <td>🧪 Expanding</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div style="float: left;">
-    <img src="marvel-miss-minutes-doodle.gif" alt="Miss Minutes GIF" width="200" style="display: block;"/>
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 60%; vertical-align: top; padding-right: 20px;">
+      <h1>✨ TVA Status Board</h1>
+      <table>
+        <thead>
+          <tr>
+            <th>Skill Timeline</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Machine Learning</td>
+            <td>📈 Evolving</td>
+          </tr>
+          <tr>
+            <td>Python</td>
+            <td>✅ Approved</td>
+          </tr>
+          <tr>
+            <td>SQL</td>
+            <td>🟢 Active</td>
+          </tr>
+          <tr>
+            <td>Power BI</td>
+            <td>🔥 Glorious</td>
+          </tr>
+          <tr>
+            <td>GitHub Projects</td>
+            <td>🧪 Expanding</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td style="width: 40%; vertical-align: top; text-align: center;">
+      <img src="marvel-miss-minutes-doodle.gif" alt="Miss Minutes GIF" style="max-width: 100%; height: auto;"/>
+    </td>
+  </tr>
+</table>
