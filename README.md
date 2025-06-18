@@ -27,6 +27,7 @@
 <br>
 <br>
 <br>
+<div style="display: flex; align-items: center; gap: 20px;">
 <div style="float: left; padding: 15px; background: red;">
    <h1>✨ TVA Status Board</h1>
  
@@ -40,4 +41,5 @@
 </div>
 <div style="position: absolute; top: 50px; left: 100px;">
   <img src="./marvel-miss-minutes-doodle.gif" alt="GIF" style="width: 200px; height: auto;">
+</div>
 </div>
