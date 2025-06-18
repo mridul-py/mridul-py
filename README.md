@@ -29,6 +29,6 @@
 <br>
 <h1>✨ TVA Status Board</h1>
 <p align="center">
-    <img src="./{2C26FC78-5CA8-415F-B634-316BD8430A0C}.png" style="width: 200px; height: auto;">
+    <img src="./{2C26FC78-5CA8-415F-B634-316BD8430A0C}.png">
     <img src="./marvel-miss-minutes-doodle.gif" style="width: 200px; height: auto;">
 </p>
