@@ -29,7 +29,7 @@
 <br>
 <br>
  
-<img align="right" src="./marvel-miss-minutes-doodle.gif" alt="image"  style="width: 100px; height: auto;">
+<img align="right" src="./marvel-miss-minutes-doodle.gif" alt="image"  style="width: 200px; height: auto;">
 
 <h1>✨ TVA Status Board</h1>
 
