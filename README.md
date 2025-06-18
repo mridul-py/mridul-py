@@ -48,6 +48,8 @@
 | GitHub Projects    | 🧪 Expanding  |
 <br>
 
+<img align="right" src="./image.png" alt="image"  style="width: 200px; height: auto;">
+
 ## 📂 TVA-Approved Projects
 
 > “These repositories have been cleared by the Time Keepers. No Nexus events detected… *for now.*”
