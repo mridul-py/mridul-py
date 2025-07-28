@@ -67,3 +67,5 @@
 
 ### 🧩 **LeetCode-Solutions**
 > *A combat log from the Java sector – pattern recognition, recursion magic, and algorithmic warfare.*
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mridul-py&layout=compact&theme=tokyonight)](https://github.com/mridul-py)
