@@ -49,7 +49,7 @@
 
 
 
-## 📂 TVA-Approved Projects
+## 📂 TVA Projects
 
 > “These repositories have been cleared by the Time Keepers. No Nexus events detected… *for now.*”
 
