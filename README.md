@@ -68,6 +68,3 @@
 ### 🧩 **LeetCode-Solutions**
 > *A combat log from the Java/Python sector – pattern recognition, recursion magic, and algorithmic warfare.*
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![SQL](https://img.shields.io/badge/SQL-Optimized-brightgreen)
-![Power BI](https://img.shields.io/badge/Power--BI-Glorious-yellow)
