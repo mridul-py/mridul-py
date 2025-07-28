@@ -66,6 +66,6 @@
 > *Meetings outside the sacred timeline? Not on my watch. Built to prune calendar chaos.*
 
 ### 🧩 **LeetCode-Solutions**
-> *A combat log from the Java sector – pattern recognition, recursion magic, and algorithmic warfare.*
+> *A combat log from the Java/Python sector – pattern recognition, recursion magic, and algorithmic warfare.*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mridul-py&layout=compact&theme=tokyonight)](https://github.com/mridul-py)
